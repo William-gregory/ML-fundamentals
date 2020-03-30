@@ -2,7 +2,10 @@ import numpy as np
 import scipy 
 from scipy.interpolate import _fitpack
 
-    
+#The following code is a spline interpolation function taken directly from scipy.interpolate.spline.
+#I think this may only be present in older versions of scipy so I just copied this to import it in my 
+#own code when needed.
+
 def spline(xk, yk, xnew, order=3, kind='smoothest', conds=None):
     
     def _dot0(a, b):
