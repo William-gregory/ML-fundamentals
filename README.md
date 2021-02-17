@@ -5,6 +5,8 @@ Bishop, C.M., 2006. Pattern recognition and machine learning. springer.
 
 Rasmussen, C.E. and Williams, C.K., 2006. Gaussian processes for machine learning, MIT press.
 
+
+
 With the addition of some more recent work into multi-task GPs from:
 
 Stegle, O., Lippert, C., Mooij, J.M., Larence, N.D. and Borgwardt, K., 2011. Efficient inference in matrix-variate Gaussian models with iid observation noise.
