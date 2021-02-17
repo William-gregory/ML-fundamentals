@@ -1,5 +1,5 @@
 # PRML
-The Jupyter Notebook PRML.ipynb contains coded examples with some accompanying theory of various statistical concepts outlined in both highly-renowned textbooks
+The Jupyter Notebook PRML.ipynb contains coded examples which i have written myself, outlining various statistical concepts covered in both textbooks:
 
 Bishop, C.M., 2006. Pattern recognition and machine learning. springer.
 
