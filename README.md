@@ -13,4 +13,4 @@ Stegle, O., Lippert, C., Mooij, J.M., Larence, N.D. and Borgwardt, K., 2011. Eff
 
 Rakitsch, B., Lippert, C., Borgwardt, K. and Stegle, O., 2013, December. It is all in the noise: Efficient multi-task Gaussian process inference with structured residuals. In Proceedings of the 26th International Conference on Neural Information Processing Systems-Volume 1 (pp. 1466-1474). [https://doi.org/10.5555/2999611.2999775](https://proceedings.neurips.cc/paper/2013/file/59c33016884a62116be975a9bb8257e3-Paper.pdf)
 
-![alt text](https://github.com/William-gregory/PRML/blob/master/images/BLRa.pdf)
+![alt text](https://github.com/William-gregory/PRML/blob/master/images/MTGPR.png)
